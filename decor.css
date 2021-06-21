@@ -69,6 +69,11 @@ table, th,td{
     
 
 }
+td{
+  font-size: 2vw;
+  font-style: oblique;
+  color: #f2f2f2;
+}
 th{
     font-size: 3vw;
     
