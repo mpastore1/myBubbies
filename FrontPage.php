@@ -2,7 +2,6 @@
 <head><title>Our Time Together</title></head>
 
 <link rel="stylesheet" href="decor.css">
-<h1 style="font-style: italic;"> Our Time Together </h1>
 <div class="topnav2">
 <table>
 <tr>
