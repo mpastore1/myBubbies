@@ -23,8 +23,8 @@
 
 
 
-<img src='pics/hearts.gif' style= 'width:100%; height:100%;' />
-<h2 class="centered" style="color:black; font-size:1.7vw;" >I met my bubbies on March 12, 2020, and we went to the aroma espresso bar. <br>
+
+<h2 class="centered" style="color:black; font-size:1.7vw; position: absolute;" >I met my bubbies on March 12, 2020, and we went to the aroma espresso bar. <br>
 My bubbies and I had tuna sandwiches and large coffees. That day we loved spending so much time together<b>
 we decided to go watch a movie(we watched the invisible man). On March 17th Ontario went into its first<br>
 lockdown and we didn't see each other after for a while. Then on May 15th, I texted my bubbies asking to go for a walk<br>
@@ -32,6 +32,7 @@ and we went on to venturing into forest trails which we still enjoy, even today.
 then on June 26th, we traveled to Oshawa at Gordon Richards Park on the waterfront where we kissed for the first time.&#10084; <br>
 Then on this day, July 1st we made our love for each other official and I couldn't be happier. &#10084;&#10084;&#10084;   &#10084;&#10084;&#10084;  </h2>
 </div>
+<img src='pics/hearts.gif' style= 'width:100%; height:100%;' />
 </div>
 </body>
 </html>
