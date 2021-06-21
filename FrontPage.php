@@ -1,10 +1,7 @@
 <html>
 <head><title>Our Time Together</title></head>
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
 <link rel="stylesheet" href="decor.css">
-
-<body>
-
 <h1 style="font-style: italic;"> Our Time Together </h1>
 <div class="topnav2">
 <table>
@@ -17,6 +14,9 @@
 
 </table>
 </div>
+<body>
+
+
 <div class="topnav">
 <a href='FrontPage.php'>  Home </a>
 <a href="Photos.php">  Photos </a>
