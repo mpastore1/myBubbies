@@ -43,8 +43,6 @@ if(isset($_POST['button1'])){
     if($_SESSION["count"] > 38){
         $_SESSION["count"] = 0;
     }
-    
-   
 }
 
 ?>
